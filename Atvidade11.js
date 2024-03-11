@@ -11,4 +11,3 @@ if (velocidade <= 60) {
 } else {
     document.write("Velocidade inválida");
 }
-c
